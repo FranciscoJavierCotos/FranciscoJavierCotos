@@ -2,7 +2,7 @@
 
 > *I build reliable data systems by understanding how they fail.*
 
-Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in production data support and a sharp focus on root cause analysis across APIs, databases, and cloud platforms. Now channeling that experience into designing scalable, end-to-end pipelines that prevent failures before they happen.
+Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in production data with a sharp focus on root cause analysis across APIs, databases, and cloud platforms. Now channeling that experience into designing scalable, end-to-end pipelines that prevent failures before they happen.
 
 ---
 
