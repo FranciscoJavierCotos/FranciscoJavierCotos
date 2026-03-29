@@ -5,28 +5,15 @@
 Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in production data and a sharp focus on root cause analysis across APIs, databases, and cloud platforms. Now channeling that experience into designing scalable, end-to-end pipelines that prevent failures before they happen.
 
 ---
-
 ## 🛠️ Stack
 
-**Languages:**
-
-<img src="https://cdn.simpleicons.org/postgresql" width="16"/> SQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/python" width="16"/> Python
-
-**Orchestration & Transformation:**
-
-<img src="https://cdn.simpleicons.org/apacheairflow" width="16"/> Apache Airflow &nbsp;·&nbsp; 🔧 dbt
-
-**Warehousing & Compute:**
-
-<img src="https://cdn.simpleicons.org/snowflake" width="16"/> Snowflake &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/databricks" width="16"/> Databricks
-
-**Cloud & Containers:**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="16"/> Azure &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/docker" width="16"/> Docker
-
-**Tools & AI:**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16"/> VS Code &nbsp;·&nbsp; 🤖 GPT Codex &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/anthropic/D97757" width="16"/> Claude Opus
+| | |
+|---|---|
+| **Languages** | <img src="https://cdn.simpleicons.org/postgresql" width="14"/> SQL &nbsp; <img src="https://cdn.simpleicons.org/python" width="14"/> Python |
+| **Orchestration** | <img src="https://cdn.simpleicons.org/apacheairflow" width="14"/> Airflow &nbsp; 🔧 dbt |
+| **Warehousing** | <img src="https://cdn.simpleicons.org/snowflake" width="14"/> Snowflake &nbsp; <img src="https://cdn.simpleicons.org/databricks" width="14"/> Databricks |
+| **Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="14"/> Azure &nbsp; <img src="https://cdn.simpleicons.org/docker" width="14"/> Docker |
+| **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="14"/> VS Code &nbsp; <img src="https://cdn.simpleicons.org/anthropic/D97757" width="14"/> Claude |
 
 ---
 
@@ -34,9 +21,9 @@ Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in pr
 
 ### [`crypto-data-pipeline`](https://github.com/FranciscoJavierCotos/crypto-data-pipeline)
 
-End-to-end crypto data pipeline built with **CoinGecko API**, **Airflow (Docker)**, **Databricks**, **dbt**, and **medallion architecture**.
+> Ingests live crypto market data, transforms it through a medallion architecture, and serves analytics-ready models — fully containerized and observable.
 
-A production-style project that demonstrates ingestion → transformation → serving with proper layering and observability.
+Built with **CoinGecko API · Airflow · Databricks · dbt · Docker**
 
 ---
 
