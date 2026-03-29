@@ -8,19 +8,24 @@ Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in pr
 
 ## 🛠️ Stack
 
-**Languages**
+**Languages:**
+
 <img src="https://cdn.simpleicons.org/postgresql" width="16"/> SQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/python" width="16"/> Python
 
-**Orchestration & Transformation**
+**Orchestration & Transformation:**
+
 <img src="https://cdn.simpleicons.org/apacheairflow" width="16"/> Apache Airflow &nbsp;·&nbsp; 🔧 dbt
 
-**Warehousing & Compute**
+**Warehousing & Compute:**
+
 <img src="https://cdn.simpleicons.org/snowflake" width="16"/> Snowflake &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/databricks" width="16"/> Databricks
 
-**Cloud & Containers**
-☁️ Azure &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/docker" width="16"/> Docker
+**Cloud & Containers:**
 
-**Tools & AI**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="16"/> Azure &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/docker" width="16"/> Docker
+
+**Tools & AI:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16"/> VS Code &nbsp;·&nbsp; 🤖 GPT Codex &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/anthropic/D97757" width="16"/> Claude Opus
 
 ---
