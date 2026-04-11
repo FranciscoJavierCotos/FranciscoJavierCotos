@@ -16,15 +16,16 @@ Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in pr
 | **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="14"/> VS Code &nbsp; <img src="https://cdn.simpleicons.org/anthropic/D97757" width="14"/> Claude |
 
 ---
-
 ## 🚀 Featured Project
+### [`Real-Time-Crypto-Pipeline`](https://github.com/FranciscoJavierCotos/Real-Time-Crypto-Pipeline)
+> Fuses four live Binance WebSocket streams into a single analyst-ready view of the Bitcoin market — validated at every stage, orchestrated in the cloud, and updated every two minutes.
 
-### [`crypto-data-pipeline`](https://github.com/FranciscoJavierCotos/crypto-data-pipeline)
+Built with **Binance WebSocket · Apache Kafka (KRaft) · Python · Apache Airflow · Great Expectations · Databricks · Delta Lake · dbt**
 
-> Ingests live crypto market data, transforms it through a medallion architecture, and serves analytics-ready models — fully containerized and observable.
-
-Built with **CoinGecko API · Airflow · Databricks · dbt · Docker**
-
+- ⚡ **4 live streams** ingested via a single WebSocket connection (trades, klines, ticker, order book)
+- 🏅 **Medallion architecture** — Bronze raw Parquet → Silver windowed aggregations → Gold analyst tables
+- 🛡️ **Three-tier data quality framework** — PyArrow schema enforcement, Great Expectations business rules, dbt model integrity tests
+- 📊 **`gold_market_pulse`** — composite `momentum_signal` (strong_buy → strong_sell) + volume spike detection per minute
 ---
 
 ## 📬 Let's Connect
