@@ -22,10 +22,10 @@ Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in pr
 
 Built with **Binance WebSocket · Apache Kafka (KRaft) · Python · Apache Airflow · Great Expectations · Databricks · Delta Lake · dbt**
 
-- ⚡ **4 live streams** ingested via a single WebSocket connection (trades, klines, ticker, order book)
-- 🏅 **Medallion architecture** — Bronze raw Parquet → Silver windowed aggregations → Gold analyst tables
-- 🛡️ **Three-tier data quality framework** — PyArrow schema enforcement, Great Expectations business rules, dbt model integrity tests
-- 📊 **`gold_market_pulse`** — composite `momentum_signal` (strong_buy → strong_sell) + volume spike detection per minute
+-  **4 live streams** ingested via a single WebSocket connection (trades, klines, ticker, order book)
+-  **Medallion architecture** — Bronze raw Parquet → Silver windowed aggregations → Gold analyst tables
+-  **Three-tier data quality framework** — PyArrow schema enforcement, Great Expectations business rules, dbt model integrity tests
+  
 ---
 
 ## 📬 Let's Connect
