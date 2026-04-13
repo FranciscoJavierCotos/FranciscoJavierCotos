@@ -17,7 +17,7 @@ Data engineer based in **A Coruña, Spain** 🇪🇸 — with a background in pr
 
 ---
 ## 🚀 Featured Project
-### [`Near-Real-Time-Analytics-Pipeline`]([https://github.com/FranciscoJavierCotos/Real-Time-Crypto-Pipeline](https://github.com/FranciscoJavierCotos/Near-Real-Time-Analytics-Pipeline))
+### [`Near-Real-Time-Analytics-Pipeline`]([Near-Real-Time-Analytics-Pipeline])
 > Fuses four live Binance WebSocket streams into a single analyst-ready view of the Bitcoin market — validated at every stage and orchestrated in the cloud.
 
 Built with **Binance WebSocket · Apache Kafka (KRaft) · Python · Apache Airflow · Great Expectations · Databricks · Delta Lake · dbt**
