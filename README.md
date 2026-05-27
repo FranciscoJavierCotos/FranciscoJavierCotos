@@ -2,7 +2,7 @@
 
 > *I build reliable data systems by understanding how they fail.*
 
-Data Engineer in A Coruña, Spain 🇪🇸 working at the intersection of AI app prototyping and production data systems. I specialize in root cause analysis across APIs and cloud platforms, and now focus on building scalable data pipelines and intelligent tools that improve reliability and prevent system failures.
+AI & Data Engineer in A Coruña, Spain 🇪🇸 working at the intersection of AI-native applications and production data systems. I specialize in root-cause analysis across distributed systems (APIs, cloud platforms, and databases) and building scalable, production-grade operational systems.
 
 ---
 ## 🛠️ Stack
@@ -16,16 +16,33 @@ Data Engineer in A Coruña, Spain 🇪🇸 working at the intersection of AI app
 | **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="14"/> VS Code &nbsp; <img src="https://cdn.simpleicons.org/anthropic/D97757" width="14"/> Claude |
 
 ---
+
 ## 🚀 Featured Project
+
+### [`MERA-Product-Operations`]([MERA-Product-Operations])
+
+> AI-first product operations platform that unifies tickets, knowledge, and delivery workflows into a single system where every resolution becomes reusable knowledge.
+
+MERA replaces fragmented ops tooling with a single system where:
+- tickets, SLA logic, and engineering work live together
+- every resolved issue becomes searchable institutional memory
+- AI retrieves past resolutions in real time using embeddings
+
+**Stack:** Next.js · Fastify · PostgreSQL · Supabase · pgvector · Gemini · Tailwind · React
+
+---
+
+## 📊 Data Pipeline Project
+
 ### [`Near-Real-Time-Analytics-Pipeline`]([Near-Real-Time-Analytics-Pipeline])
-> Fuses four live Binance WebSocket streams into a single analyst-ready view of the Bitcoin market — validated at every stage and orchestrated in the cloud.
 
-Built with **Binance WebSocket · Apache Kafka (KRaft) · Python · Apache Airflow · Great Expectations · Databricks · Delta Lake · dbt**
+Fuses live Binance WebSocket streams into a unified Bitcoin market dataset for analysis.
 
--  **4 live streams** ingested via a single WebSocket connection (trades, klines, ticker, order book)
--  **Medallion architecture** — Bronze raw Parquet → Silver windowed aggregations → Gold analyst tables
--  **Three-tier data quality framework** — PyArrow schema enforcement, Great Expectations business rules, dbt model integrity tests
-  
+- Kafka-based ingestion (trades, klines, ticker, order book)
+- Medallion architecture (Bronze → Silver → Gold layers)
+- Data validation using Great Expectations + dbt tests
+- Orchestrated with Airflow and served via Databricks + Delta Lake
+
 ---
 
 ## 📬 Let's Connect
