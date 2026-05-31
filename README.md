@@ -9,10 +9,10 @@ AI & Data Engineer in A Coruña, Spain 🇪🇸 working at the intersection of A
 
 | | |
 |---|---|
-| **Programming & Querying** | <img src="https://cdn.simpleicons.org/postgresql" width="14"/> SQL &nbsp; <img src="https://cdn.simpleicons.org/python" width="14"/> Python |
-| **Data Engineering & Transformation** | 🔧 dbt &nbsp; <img src="https://cdn.simpleicons.org/githubactions" width="14"/> GitHub Actions |
-| **Data Platforms & Warehousing** | <img src="https://cdn.simpleicons.org/snowflake" width="14"/> Snowflake &nbsp; <img src="https://cdn.simpleicons.org/databricks" width="14"/> Databricks |
-| **Infrastructure & Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="14"/> Azure &nbsp; <img src="https://cdn.simpleicons.org/docker" width="14"/> Docker |
+| **Programming & Querying** | <img src="https://cdn.simpleicons.org/python" width="14"/> Python &nbsp; <img src="https://cdn.simpleicons.org/postgresql" width="14"/> SQL |
+| **Data Engineering & Streaming** | <img src="https://logo.svgcdn.com/logos/dbt-icon.svg" width="14"/> dbt &nbsp; <img src="https://cdn.simpleicons.org/apachekafka" width="14"/> Kafka &nbsp; <img src="https://cdn.simpleicons.org/apacheairflow" width="14"/> Airflow |
+| **Databases & Warehousing** | <img src="https://cdn.simpleicons.org/postgresql" width="14"/> PostgreSQL &nbsp; <img src="https://cdn.simpleicons.org/snowflake" width="14"/> Snowflake &nbsp; <img src="https://cdn.simpleicons.org/databricks" width="14"/> Databricks |
+| **Cloud, DevOps & Infrastructure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="14"/> Azure &nbsp; <img src="https://cdn.simpleicons.org/docker" width="14"/> Docker &nbsp; <img src="https://cdn.simpleicons.org/githubactions" width="14"/> GitHub Actions &nbsp; |
 | **Development & AI Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="14"/> VS Code &nbsp; <img src="https://cdn.simpleicons.org/anthropic/D97757" width="14"/> Claude |
 
 ---
