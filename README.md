@@ -23,11 +23,11 @@ AI & Data Engineer in A Coruña, Spain 🇪🇸 working at the intersection of A
 
 
 
-> AI-first product operations platform that unifies tickets, knowledge, and delivery workflows into a single system where every resolution becomes reusable knowledge.
+> An open-source, AI-native workspace for product ops teams. Tickets, SLAs, AI-powered knowledge retrieval, and Scrum delivery — unified in a single system where the database is the source of truth, with full teams management built in.
 
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/FranciscoJavierCotos/MERA-Product-Operations/main/docs/screenshots/ad-dark.png"
+    src="https://raw.githubusercontent.com/FranciscoJavierCotos/MERA-Product-Operations/main/docs/screenshots/analytics.png"
     width="460"
     alt="MERA Dashboard"
   />
