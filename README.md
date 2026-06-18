@@ -41,7 +41,6 @@ MERA replaces fragmented ops tooling with a single system where:
 **Stack:** Next.js · Fastify · PostgreSQL · Supabase · pgvector · Gemini · Tailwind · React
 
 
-
 ---
 
 ## 📬 Let's Connect
