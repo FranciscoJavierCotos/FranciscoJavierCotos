@@ -48,7 +48,7 @@ I bring that same production discipline to AI: I ship LLM and RAG systems with t
 
 **The impact:** The interesting work isn't the guitar app — it's everything around the LLM that makes it **trustworthy, measurable, and safe to expose publicly**. A LangChain function-calling agent (13 tools) drives the UI through a structured JSON contract, but every chord rendered is re-fetched from an authoritative database — **the model can't hallucinate output onto the screen**.
 
-**Stack:** Python · FastAPI · LangChain · DeepSeek (LLM) · OpenTelemetry · Next.js 14 · TypeScript
+**Stack:** Python · FastAPI · LangChain · DeepSeek API · OpenTelemetry · Next.js 14 · TypeScript
 
 ---
 
